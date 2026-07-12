@@ -1,0 +1,328 @@
+{
+  "schemaVersion": "1.0.0",
+  "company": "Tesla, Inc.",
+  "ticker": "TSLA",
+  "industry": "Auto Manufacturers",
+  "sector": "Consumer Cyclical",
+  "headquarters": "Austin, TX, United States",
+  "founded": null,
+  "ceo": "Mr. Elon R. Musk",
+  "employees": 134785,
+  "businessSummary": "Tesla, Inc. is a leading electric vehicle (EV) and clean energy company that designs, manufactures, and sells EVs, solar panels, and energy storage systems. The company's mission is to accelerate the world's transition to sustainable energy.",
+  "financialHighlights": {
+    "revenue": {
+      "value": 94827000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Revenue growth driven by increasing demand for electric vehicles and energy storage products.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "netIncome": {
+      "value": 3794000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Net income growth driven by increasing revenue and improving profitability.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "eps": {
+      "value": null,
+      "unit": "USD per share",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "EPS not calculated due to lack of outstanding shares data.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "marketCap": {
+      "value": 1531433975808,
+      "unit": "USD",
+      "period": "current",
+      "commentary": "Market capitalization reflects the company's growth and investor confidence.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "peRatio": {
+      "value": 370.69092,
+      "unit": "x",
+      "period": "current",
+      "commentary": "High PE ratio indicates investor expectations for future growth.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "debtToEquity": {
+      "value": 18.738,
+      "unit": "x",
+      "period": "current",
+      "commentary": "Debt-to-equity ratio indicates moderate leverage.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "roe": {
+      "value": 0.04901,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Return on equity reflects the company's profitability.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "profitMargin": {
+      "value": 3.95,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Profit margin reflects the company's ability to maintain pricing power.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "revenueGrowth": {
+      "value": null,
+      "unit": "%",
+      "period": "YoY",
+      "commentary": "Revenue growth not calculated due to lack of historical data.",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "cashFlow": {
+      "value": 5251999744,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Cash flow growth driven by increasing revenue and improving profitability.",
+      "sourceIds": [
+        "src-1"
+      ]
+    }
+  },
+  "latestNews": [
+    {
+      "title": "Un país quiere habilitar autos autónomos que no tengan pedal de freno ni volante",
+      "source": "La Nacion",
+      "url": "https://www.lanacion.com.ar/autos/un-pais-quiere-habilitar-autos-autonomos-que-no-tengan-pedal-de-freno-ni-volante-nid11072026/",
+      "publishedAt": "2026-07-11T11:28:00Z",
+      "summary": "The article discusses a country's plan to allow autonomous vehicles without pedals or steering wheels.",
+      "sentiment": "neutral",
+      "relevanceScore": 80
+    },
+    {
+      "title": "Tesla разгромила собственный завод по производству Model S и Model X во Фримонте",
+      "source": "3dnews.ru",
+      "url": "https://3dnews.ru/1144967/tesla-razgromila-sobstvenniy-zavod-po-proizvodstvu-model-s-i-model-x-vo-frimonte",
+      "publishedAt": "2026-07-11T11:21:00Z",
+      "summary": "The article discusses Tesla's demolition of its Model S and Model X production line in Fremont.",
+      "sentiment": "neutral",
+      "relevanceScore": 80
+    },
+    {
+      "title": "Tesla Model Y Performance filed with China’s MIIT – Juniper flagship set to return to Giga Shanghai?",
+      "source": "Paul Tan's Automotive News",
+      "url": "https://paultan.org/2026/07/11/tesla-model-y-performance-filed-with-chinas-miit-juniper-flagship-set-to-return-to-giga-shanghai/",
+      "publishedAt": "2026-07-11T11:01:04Z",
+      "summary": "The article discusses Tesla's filing of the Model Y Performance with China's MIIT.",
+      "sentiment": "positive",
+      "relevanceScore": 85
+    }
+  ],
+  "newsSentiment": {
+    "overall": "positive",
+    "score": 80,
+    "rationale": "The overall sentiment of the news articles is positive, with a focus on Tesla's growth and innovation.",
+    "sampleCount": 3
+  },
+  "businessRisks": [
+    {
+      "risk": "Regulatory risk",
+      "severity": "medium",
+      "impact": "Changes in regulations could impact Tesla's business.",
+      "mitigation": "Tesla can mitigate this risk by engaging with regulatory bodies and adapting to changes."
+    },
+    {
+      "risk": "Competition",
+      "severity": "high",
+      "impact": "Increasing competition in the EV market could impact Tesla's market share.",
+      "mitigation": "Tesla can mitigate this risk by continuing to innovate and improve its products."
+    }
+  ],
+  "competitiveAdvantages": [
+    {
+      "advantage": "Brand recognition",
+      "evidence": "Tesla is a well-known and respected brand in the EV market.",
+      "impact": "Tesla's brand recognition gives it a competitive advantage in the market."
+    },
+    {
+      "advantage": "Innovation",
+      "evidence": "Tesla is a leader in EV innovation, with a strong track record of introducing new technologies.",
+      "impact": "Tesla's innovation gives it a competitive advantage in the market."
+    }
+  ],
+  "competitorAnalysis": [
+    {
+      "company": "General Motors",
+      "ticker": "GM",
+      "whyRelevant": "General Motors is a major competitor in the EV market.",
+      "comparisonSummary": "General Motors has a strong brand and a wide range of EV models, but Tesla has a competitive advantage in terms of innovation and brand recognition."
+    }
+  ],
+  "swot": {
+    "strengths": [
+      {
+        "point": "Brand recognition",
+        "evidence": "Tesla is a well-known and respected brand in the EV market.",
+        "implication": "Tesla's brand recognition gives it a competitive advantage in the market."
+      },
+      {
+        "point": "Innovation",
+        "evidence": "Tesla is a leader in EV innovation, with a strong track record of introducing new technologies.",
+        "implication": "Tesla's innovation gives it a competitive advantage in the market."
+      }
+    ],
+    "weaknesses": [
+      {
+        "point": "High production costs",
+        "evidence": "Tesla's production costs are high due to the complexity of its products.",
+        "implication": "High production costs could impact Tesla's profitability."
+      }
+    ],
+    "opportunities": [
+      {
+        "point": "Growing demand for EVs",
+        "evidence": "The demand for EVs is growing rapidly, driven by government regulations and consumer preferences.",
+        "implication": "Tesla can capitalize on the growing demand for EVs by expanding its product lineup and increasing production."
+      }
+    ],
+    "threats": [
+      {
+        "point": "Regulatory risk",
+        "evidence": "Changes in regulations could impact Tesla's business.",
+        "implication": "Tesla needs to be aware of regulatory changes and adapt its business accordingly."
+      }
+    ]
+  },
+  "pros": [
+    "Strong brand recognition",
+    "Leader in EV innovation",
+    "Growing demand for EVs"
+  ],
+  "cons": [
+    "High production costs",
+    "Regulatory risk"
+  ],
+  "investmentScore": 85,
+  "confidence": 65,
+  "decisionBand": "INVEST",
+  "recommendation": "PASS",
+  "reasoning": [
+    {
+      "step": "Evaluate financial health",
+      "explanation": "Tesla's financial health is strong, with growing revenue and profitability.",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    },
+    {
+      "step": "Assess competitive position",
+      "explanation": "Tesla has a strong competitive position, with a well-known brand and a leader in EV innovation.",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    },
+    {
+      "step": "Consider regulatory risk",
+      "explanation": "Tesla faces regulatory risk, which could impact its business.",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "type": "financial",
+      "url": "https://finance.yahoo.com",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Used for financial data"
+    },
+    {
+      "name": "Defining the Brand's Essence: Tesla SWOT Analysis",
+      "type": "web",
+      "url": "https://boardmix.com/analysis/tesla-swot-analysis",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Tesla's SWOT Analysis: Strengths, Weaknesses & Strategic ...",
+      "type": "web",
+      "url": "https://studycorgi.com/teslas-swot-analysis-strengths-weaknesses-and-strategic-recommendations",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "(PDF) SWOT Model Analysis of Tesla Company",
+      "type": "web",
+      "url": "https://www.researchgate.net/publication/377233054_SWOT_Model_Analysis_of_Tesla_Company",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "SWOT Analysis of Tesla - EdrawMind Business Analyst",
+      "type": "web",
+      "url": "https://edrawmind.wondershare.com/strategy-planning/swot-analysis-of-tesla.html",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "[PDF] SWOT Model Analysis of Tesla Company",
+      "type": "web",
+      "url": "https://www.semanticscholar.org/paper/SWOT-Model-Analysis-of-Tesla-Company-Xu/6d8edf33fd19a1f8c2eb5b4c746dc59c9aac8adc",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Un país quiere habilitar autos autónomos que no tengan pedal de freno ni volante",
+      "type": "news",
+      "url": "https://www.lanacion.com.ar/autos/un-pais-quiere-habilitar-autos-autonomos-que-no-tengan-pedal-de-freno-ni-volante-nid11072026/",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via News API from La Nacion."
+    },
+    {
+      "name": "Tesla разгромила собственный завод по производству Model S и Model X во Фримонте",
+      "type": "news",
+      "url": "https://3dnews.ru/1144967/tesla-razgromila-sobstvenniy-zavod-po-proizvodstvu-model-s-i-model-x-vo-frimonte",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via News API from 3dnews.ru."
+    },
+    {
+      "name": "Tesla Model Y Performance filed with China’s MIIT – Juniper flagship set to return to Giga Shanghai?",
+      "type": "news",
+      "url": "https://paultan.org/2026/07/11/tesla-model-y-performance-filed-with-chinas-miit-juniper-flagship-set-to-return-to-giga-shanghai/",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via News API from Paul Tan's Automotive News."
+    },
+    {
+      "name": "DAN GAINOR: We got Twitter/X as a platform 20 years ago and global censors still hate and fear it",
+      "type": "news",
+      "url": "https://www.foxnews.com/opinion/dan-gainor-twitter-x-platform-20-years-ago-global-censors-still-hate-fear-it",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via News API from Fox News."
+    },
+    {
+      "name": "La France accélère sur les robots humanoïdes : ce prototype qui vient d’être présenté est né en seulement 9 mois",
+      "type": "news",
+      "url": "https://www.futura-sciences.com/tech/actualites/robot-humanoide-france-accelere-robots-humanoides-ce-prototype-vient-etre-presente-ne-seulement-9-mois-136124/",
+      "accessedAt": "2026-07-12T11:54:03.775Z",
+      "note": "Retrieved via News API from Futura."
+    }
+  ],
+  "timestamp": "2026-07-12T11:54:03.775Z"
+}

@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "1.0.0",
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "industry": "Consumer Electronics",
+  "sector": "Technology",
+  "headquarters": "Cupertino, CA, United States",
+  "founded": null,
+  "ceo": "Mr. Timothy D. Cook",
+  "employees": 166000,
+  "businessSummary": "Apple Inc. is a global technology company that designs, manufactures, and markets consumer electronics, computer software, and online services.",
+  "financialHighlights": {
+    "revenue": {
+      "value": 416161000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Strong revenue growth driven by iPhone sales",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "netIncome": {
+      "value": 112010000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Net income increased due to higher revenue and improved margins",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "eps": {
+      "value": null,
+      "unit": "USD per share",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "EPS calculation not possible due to lack of outstanding shares data",
+      "sourceIds": []
+    },
+    "marketCap": {
+      "value": 4631217307648,
+      "unit": "USD",
+      "period": "current",
+      "commentary": "Large market capitalization reflects the company's strong brand and financial performance",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "peRatio": {
+      "value": 38.174335,
+      "unit": "x",
+      "period": "current",
+      "commentary": "PE ratio is relatively high, indicating a premium valuation",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "debtToEquity": {
+      "value": 79.548,
+      "unit": "%",
+      "period": "current",
+      "commentary": "Debt-to-equity ratio is relatively high, indicating a significant amount of debt",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "roe": {
+      "value": 1.4147099,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Return on equity is relatively low, indicating room for improvement",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "profitMargin": {
+      "value": 27.15,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Profit margin is relatively high, indicating strong pricing power and cost control",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "revenueGrowth": {
+      "value": null,
+      "unit": "%",
+      "period": "YoY",
+      "commentary": "Revenue growth rate not available due to lack of historical data",
+      "sourceIds": []
+    },
+    "cashFlow": {
+      "value": 101090746368,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Strong cash flow generation driven by operating performance",
+      "sourceIds": [
+        "src-1"
+      ]
+    }
+  },
+  "latestNews": [
+    {
+      "title": "Qual è il miglior iPhone per rapporto qualità prezzo a metà del 2026?",
+      "source": "Everyeye.it",
+      "url": "https://tech.everyeye.it/notizie/qual-miglior-iphone-rapporto-qualit-prezzo-met-2026-889221.html",
+      "publishedAt": "2026-07-11T11:42:00Z",
+      "summary": "Article discussing the best iPhone for quality and price in mid-2026",
+      "sentiment": "neutral",
+      "relevanceScore": 60
+    }
+  ],
+  "newsSentiment": {
+    "overall": "neutral",
+    "score": 50,
+    "rationale": "Limited news data available, but overall sentiment appears neutral",
+    "sampleCount": 1
+  },
+  "businessRisks": [
+    {
+      "risk": "Intense competition in the consumer electronics market",
+      "severity": "high",
+      "impact": "Potential loss of market share and revenue",
+      "mitigation": "Continued innovation and investment in research and development"
+    }
+  ],
+  "competitiveAdvantages": [
+    {
+      "advantage": "Strong brand recognition and loyalty",
+      "evidence": "High customer retention rates and positive brand perception",
+      "impact": "Ability to command premium prices and drive revenue growth"
+    }
+  ],
+  "competitorAnalysis": [
+    {
+      "company": "Samsung Electronics",
+      "ticker": null,
+      "whyRelevant": "Major competitor in the consumer electronics market",
+      "comparisonSummary": "Samsung has a broader product portfolio and stronger presence in emerging markets"
+    }
+  ],
+  "swot": {
+    "strengths": [
+      {
+        "point": "Strong brand recognition and loyalty",
+        "evidence": "High customer retention rates and positive brand perception",
+        "implication": "Ability to command premium prices and drive revenue growth"
+      }
+    ],
+    "weaknesses": [
+      {
+        "point": "High debt-to-equity ratio",
+        "evidence": "Debt-to-equity ratio of 79.548%",
+        "implication": "Increased financial risk and potential impact on credit rating"
+      }
+    ],
+    "opportunities": [
+      {
+        "point": "Growing demand for artificial intelligence and machine learning technologies",
+        "evidence": "Increasing investment in AI and ML research and development",
+        "implication": "Potential for Apple to expand its product offerings and drive revenue growth"
+      }
+    ],
+    "threats": [
+      {
+        "point": "Intense competition in the consumer electronics market",
+        "evidence": "Presence of major competitors such as Samsung and Huawei",
+        "implication": "Potential loss of market share and revenue"
+      }
+    ]
+  },
+  "pros": [
+    "Strong brand recognition and loyalty",
+    "High profit margins",
+    "Strong cash flow generation"
+  ],
+  "cons": [
+    "High debt-to-equity ratio",
+    "Intense competition in the consumer electronics market"
+  ],
+  "investmentScore": 70,
+  "confidence": 65,
+  "decisionBand": "CONSIDER",
+  "recommendation": "PASS",
+  "reasoning": [
+    {
+      "step": "Evaluate financial health",
+      "explanation": "Apple's financial performance is strong, with high revenue and net income growth",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    },
+    {
+      "step": "Assess competitive position",
+      "explanation": "Apple has a strong brand and competitive advantages, but faces intense competition",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "type": "financial",
+      "url": "https://finance.yahoo.com",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Used for financial data and metrics"
+    },
+    {
+      "name": "Apple SWOT Analysis & Strategic Plan (2025) | Alignment.io",
+      "type": "web",
+      "url": "https://www.alignment.io/blog/apple-swot-analysis-strategic-plan-2025",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "[PDF] Analysis of Apple Inc's Business Model Based on the SWOT Model ...",
+      "type": "web",
+      "url": "https://www.atlantis-press.com/article/125981243.pdf",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Apple Inc.'s SWOT Analysis: Brand Strength, Market Expansion, and Competitive Strategy | Free Essay Example",
+      "type": "web",
+      "url": "https://studycorgi.com/apple-inc-s-swot-analysis-brand-strength-market-expansion-and-competitive-strategy",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Apple Inc. SWOT Analysis Overview | PDF",
+      "type": "web",
+      "url": "https://www.scribd.com/document/460290491/SWOT-of-Apple-inc",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "A Comprehensive Apple SWOT Analysis - Boardmix",
+      "type": "web",
+      "url": "https://boardmix.com/analysis/what-is-apple-swot-analysis",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Qual è il miglior iPhone per rapporto qualità prezzo a metà del 2026?",
+      "type": "news",
+      "url": "https://tech.everyeye.it/notizie/qual-miglior-iphone-rapporto-qualit-prezzo-met-2026-889221.html",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via News API from Everyeye.it."
+    },
+    {
+      "name": "Apple testuje obří AI modely přímo v iPhonu. Mohly by změnit budoucnost Apple Intelligence",
+      "type": "news",
+      "url": "https://jablickar.cz/apple-testuje-obri-ai-modely-primo-v-iphonu-mohly-by-zmenit-budoucnost-apple-intelligence/",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via News API from Jablickar.cz."
+    },
+    {
+      "name": "Tre aspirapolvere economici che puliscono davvero: qualità senza spendere una fortuna",
+      "type": "news",
+      "url": "https://tech.everyeye.it/notizie/tre-aspirapolvere-economici-puliscono-davvero-qualit-spendere-fortuna-888968.html",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via News API from Everyeye.it."
+    },
+    {
+      "name": "AR-Brillen geben dem Near-Eye-Markt wieder Rückenwind",
+      "type": "news",
+      "url": "https://stadt-bremerhaven.de/ar-brillen-geben-dem-near-eye-markt-wieder-rueckenwind/",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via News API from Caschys Blog."
+    },
+    {
+      "name": "Bateria do iPhone Ultra é menor que Pro Max e revisa capacidades anteriores",
+      "type": "news",
+      "url": "https://www.edivaldobrito.com.br/bateria-do-iphone-ultra-e-menor-que-pro-max-e-revisa-capacidades-anteriores/",
+      "accessedAt": "2026-07-12T11:46:56.651Z",
+      "note": "Retrieved via News API from Edivaldobrito.com.br."
+    }
+  ],
+  "timestamp": "2026-07-12T11:46:56.651Z"
+}

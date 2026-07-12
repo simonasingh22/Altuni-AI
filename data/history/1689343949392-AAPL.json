@@ -1,0 +1,62 @@
+{
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.",
+  "financialAnalysis": {
+    "metrics": {
+      "revenue": 383285000000,
+      "revenueGrowth": 0.02,
+      "ebitda": 125820000000,
+      "ebitdaMargin": 0.328,
+      "netIncome": 96996000000,
+      "netProfitMargin": 0.253,
+      "peRatio": 30.2,
+      "forwardPeRatio": 28.5,
+      "priceToBook": 45.3,
+      "debtToEquity": 1.45,
+      "operatingCashFlow": 110543000000,
+      "freeCashFlow": 99543000000
+    },
+    "balanceSheetStrength": "strong",
+    "growthTrajectory": "stable",
+    "profitabilityMargins": "high",
+    "cashFlowHealth": "healthy",
+    "valuationAssessment": "fairly-valued"
+  },
+  "newsAnalysis": {
+    "overallSentiment": "positive",
+    "sentimentScore": 82,
+    "significantEventsCount": 3,
+    "marketReaction": "bullish"
+  },
+  "aiAnalysis": {
+    "swot": {
+      "strengths": ["Brand equity", "Ecosystem lock-in"],
+      "weaknesses": ["Premium pricing dependence"],
+      "opportunities": ["Generative AI integration"],
+      "threats": ["Regulatory anti-trust scrutiny"]
+    },
+    "keyGrowthCatalysts": ["AI iPhone cycle", "Services growth"],
+    "criticalRiskFactors": ["Regulatory actions", "Supply chain concentration"],
+    "industryCompetitivePositioning": "Market leader in premium segment",
+    "targetPriceValuationRange": {
+      "low": 180,
+      "high": 250,
+      "base": 220
+    }
+  },
+  "investmentScore": 85,
+  "confidence": 80,
+  "decisionBand": "INVEST",
+  "recommendation": "INVEST",
+  "explainableReasoning": {
+    "rationale": "Apple exhibits strong financial metrics, cash flows, and brand value.",
+    "keyDecisionFactors": ["Healthy cash flows", "High return on equity"],
+    "riskMitigationMeasures": ["Diversifying supply chain"],
+    "requiredInvestmentHorizon": "3-5 years"
+  },
+  "latestNews": [],
+  "sources": []
+}

@@ -1,0 +1,344 @@
+{
+  "schemaVersion": "1.0.0",
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "industry": "Software - Infrastructure",
+  "sector": "Technology",
+  "headquarters": "Redmond, WA, United States",
+  "founded": null,
+  "ceo": "Mr. Satya Nadella",
+  "employees": 228000,
+  "businessSummary": "Microsoft is a leading technology company that develops, manufactures, licenses, and supports a wide range of software products, services, and devices. Its business model is centered around providing innovative solutions to individuals, businesses, and organizations, with a focus on cloud computing, artificial intelligence, and gaming.",
+  "financialHighlights": {
+    "revenue": {
+      "value": 281724000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Revenue growth driven by cloud computing and artificial intelligence segments",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "netIncome": {
+      "value": 101832000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Net income increase due to improved operating efficiency and revenue growth",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "eps": {
+      "value": null,
+      "unit": "USD per share",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "EPS calculation not possible due to lack of outstanding shares data",
+      "sourceIds": []
+    },
+    "marketCap": {
+      "value": 2860690440192,
+      "unit": "USD",
+      "period": "current",
+      "commentary": "Market capitalization reflects the company's strong financial performance and growth prospects",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "peRatio": {
+      "value": 22.93627,
+      "unit": "x",
+      "period": "current",
+      "commentary": "PE ratio indicates a relatively high valuation, but still reasonable considering the company's growth prospects",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "debtToEquity": {
+      "value": 30.271,
+      "unit": "%",
+      "period": "current",
+      "commentary": "Debt-to-equity ratio is relatively low, indicating a healthy balance sheet",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "roe": {
+      "value": 0.34013999,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Return on equity is strong, reflecting the company's ability to generate profits from shareholders' equity",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "profitMargin": {
+      "value": 39.34,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Profit margin is high, indicating efficient operations and strong pricing power",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    },
+    "revenueGrowth": {
+      "value": null,
+      "unit": "%",
+      "period": "YoY",
+      "commentary": "Revenue growth rate not available due to lack of historical data",
+      "sourceIds": []
+    },
+    "cashFlow": {
+      "value": 37011251200,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Cash flow is strong, indicating the company's ability to generate liquidity and invest in growth initiatives",
+      "sourceIds": [
+        "Yahoo Finance"
+      ]
+    }
+  },
+  "latestNews": [
+    {
+      "title": "Microsoft пришлось объяснять, что уволенных из Xbox сотрудников не заменят гастарбайтерами",
+      "source": "3dnews.ru",
+      "url": "https://3dnews.ru/1144971/microsoft-prishlos-obyasnyat-chto-uvolennih-iz-xbox-sotrudnikov-ne-zamenyat-gastarbayterami",
+      "publishedAt": "2026-07-11T11:51:00Z",
+      "summary": "Microsoft addressed concerns about replacing laid-off Xbox employees with gig workers",
+      "sentiment": "neutral",
+      "relevanceScore": 80
+    },
+    {
+      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/65ace6816ee7cba5",
+      "publishedAt": "2026-07-11T11:42:49Z",
+      "summary": "Microsoft, Amazon, and Google's carbon emissions have increased due to data center construction",
+      "sentiment": "negative",
+      "relevanceScore": 85
+    }
+  ],
+  "newsSentiment": {
+    "overall": "mixed",
+    "score": 60,
+    "rationale": "Recent news articles have a mixed tone, with some discussing the company's growth prospects and others highlighting environmental concerns",
+    "sampleCount": 2
+  },
+  "businessRisks": [
+    {
+      "risk": "Regulatory risks",
+      "severity": "medium",
+      "impact": "Potential fines and reputational damage",
+      "mitigation": "Compliance with regulations and industry standards"
+    },
+    {
+      "risk": "Environmental concerns",
+      "severity": "high",
+      "impact": "Reputational damage and potential regulatory action",
+      "mitigation": "Investment in sustainable practices and reduction of carbon footprint"
+    }
+  ],
+  "competitiveAdvantages": [
+    {
+      "advantage": "Brand recognition and loyalty",
+      "evidence": "High market share and customer retention rates",
+      "impact": "Ability to command premium prices and attract top talent"
+    },
+    {
+      "advantage": "Diversified product portfolio",
+      "evidence": "Wide range of software and hardware products",
+      "impact": "Reduced dependence on individual products and increased revenue streams"
+    }
+  ],
+  "competitorAnalysis": [
+    {
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "whyRelevant": "Competitor in cloud computing and artificial intelligence",
+      "comparisonSummary": "Amazon has a strong presence in cloud computing, but Microsoft has a more diversified product portfolio"
+    },
+    {
+      "company": "Google",
+      "ticker": "GOOGL",
+      "whyRelevant": "Competitor in artificial intelligence and search",
+      "comparisonSummary": "Google has a strong presence in search and artificial intelligence, but Microsoft has a more established enterprise software business"
+    }
+  ],
+  "swot": {
+    "strengths": [
+      {
+        "point": "Strong brand recognition and loyalty",
+        "evidence": "High market share and customer retention rates",
+        "implication": "Ability to command premium prices and attract top talent"
+      },
+      {
+        "point": "Diversified product portfolio",
+        "evidence": "Wide range of software and hardware products",
+        "implication": "Reduced dependence on individual products and increased revenue streams"
+      }
+    ],
+    "weaknesses": [
+      {
+        "point": "Dependence on Windows and Office software",
+        "evidence": "High revenue contribution from these products",
+        "implication": "Vulnerability to market fluctuations and competition"
+      },
+      {
+        "point": "High research and development expenses",
+        "evidence": "Significant investment in artificial intelligence and cloud computing",
+        "implication": "Potential impact on profitability and cash flow"
+      }
+    ],
+    "opportunities": [
+      {
+        "point": "Growing demand for cloud computing and artificial intelligence",
+        "evidence": "Increasing adoption of these technologies",
+        "implication": "Potential for revenue growth and market share expansion"
+      },
+      {
+        "point": "Expanding into new markets and geographies",
+        "evidence": "Growing demand for technology products and services in emerging markets",
+        "implication": "Potential for revenue growth and diversification"
+      }
+    ],
+    "threats": [
+      {
+        "point": "Intense competition in the technology industry",
+        "evidence": "Presence of established competitors and new entrants",
+        "implication": "Potential impact on market share and revenue"
+      },
+      {
+        "point": "Regulatory risks and compliance requirements",
+        "evidence": "Increasing regulatory scrutiny and compliance requirements",
+        "implication": "Potential impact on profitability and reputation"
+      }
+    ]
+  },
+  "pros": [
+    "Strong brand recognition and loyalty",
+    "Diversified product portfolio",
+    "Growing demand for cloud computing and artificial intelligence"
+  ],
+  "cons": [
+    "Dependence on Windows and Office software",
+    "High research and development expenses",
+    "Intense competition in the technology industry"
+  ],
+  "investmentScore": 75,
+  "confidence": 65,
+  "decisionBand": "CONSIDER",
+  "recommendation": "PASS",
+  "reasoning": [
+    {
+      "step": "Evaluate financial performance",
+      "explanation": "Microsoft has a strong financial performance, with high revenue growth and profitability",
+      "evidenceRefs": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "step": "Assess competitive position",
+      "explanation": "Microsoft has a strong brand and diversified product portfolio, but faces intense competition in the technology industry",
+      "evidenceRefs": [
+        "Competitor analysis"
+      ]
+    },
+    {
+      "step": "Consider regulatory risks and compliance requirements",
+      "explanation": "Microsoft faces regulatory risks and compliance requirements, which could impact profitability and reputation",
+      "evidenceRefs": [
+        "News articles"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "type": "financial",
+      "url": "https://finance.yahoo.com",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Financial data and news articles"
+    },
+    {
+      "name": "3dnews.ru",
+      "type": "news",
+      "url": "https://3dnews.ru",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "News article about Microsoft"
+    },
+    {
+      "name": "Microsoft: Business Model, SWOT Analysis, and Competitors 2026 - PitchGrade",
+      "type": "web",
+      "url": "https://pitchgrade.com/companies/microsoft",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Microsoft SWOT Analysis & Recommendations - Panmore",
+      "type": "web",
+      "url": "https://panmore.com/microsoft-corporation-swot-analysis-recommendations",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "microsoft swot analysis | PPTX",
+      "type": "web",
+      "url": "https://www.slideshare.net/slideshow/microsoft-swot-analysis/56458938",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "(PDF) Competitive Analysis of Microsoft in Market Settings",
+      "type": "web",
+      "url": "https://www.researchgate.net/publication/341072093_Competitive_Analysis_of_Microsoft_in_Market_Settings",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Microsoft SWOT Analysis 2025 - SM Insight",
+      "type": "web",
+      "url": "https://strategicmanagementinsight.com/swot-analyses/microsoft-swot-analysis",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Microsoft пришлось объяснять, что уволенных из Xbox сотрудников не заменят гастарбайтерами",
+      "type": "news",
+      "url": "https://3dnews.ru/1144971/microsoft-prishlos-obyasnyat-chto-uvolennih-iz-xbox-sotrudnikov-ne-zamenyat-gastarbayterami",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via News API from 3dnews.ru."
+    },
+    {
+      "name": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "type": "news",
+      "url": "https://biztoc.com/x/65ace6816ee7cba5",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via News API from Biztoc.com."
+    },
+    {
+      "name": "C# vs Go：Agentic 时代的语言分层 - 张善友",
+      "type": "news",
+      "url": "https://www.cnblogs.com/shanyou/p/21368348",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via News API from Cnblogs.com."
+    },
+    {
+      "name": "‘I have a chip on my shoulder.’ Phoebe Gates wants her $185 million AI startup Phia to succeed with ‘no ties to my privilege or my last name’",
+      "type": "news",
+      "url": "https://fortune.com/article/phoebe-gates-startup-phia-succeed-without-parents-help-bill-gates-melinda-french-gates/",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via News API from Fortune."
+    },
+    {
+      "name": "Microsoft ammette: emissioni di CO2 su del 25% in un anno per colpa dell'IA",
+      "type": "news",
+      "url": "https://www.hwupgrade.it/news/web/microsoft-ammette-emissioni-di-co2-su-del-25-in-un-anno-per-colpa-dell-ia_156153.html",
+      "accessedAt": "2026-07-12T11:58:12.922Z",
+      "note": "Retrieved via News API from Hwupgrade.it."
+    }
+  ],
+  "timestamp": "2026-07-12T11:58:12.922Z"
+}

@@ -1,0 +1,286 @@
+{
+  "schemaVersion": "1.0.0",
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "industry": "Consumer Electronics",
+  "sector": "Technology",
+  "headquarters": "Cupertino, CA, United States",
+  "founded": null,
+  "ceo": "Mr. Timothy D. Cook",
+  "employees": 166000,
+  "businessSummary": "Apple Inc. is a global technology company that designs, manufactures, and markets consumer electronics, computer software, and online services.",
+  "financialHighlights": {
+    "revenue": {
+      "value": 416161000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Strong revenue growth driven by iPhone sales",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "netIncome": {
+      "value": 112010000000,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Net income increased due to higher revenue and improved margins",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "eps": {
+      "value": null,
+      "unit": "USD per share",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "EPS calculation not possible due to lack of outstanding shares data",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "marketCap": {
+      "value": 4631217307648,
+      "unit": "USD",
+      "period": "current",
+      "commentary": "Large market capitalization reflects the company's size and influence",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "peRatio": {
+      "value": 38.174335,
+      "unit": "x",
+      "period": "current",
+      "commentary": "PE ratio is relatively high, indicating potential overvaluation",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "debtToEquity": {
+      "value": 79.548,
+      "unit": "%",
+      "period": "current",
+      "commentary": "Debt-to-equity ratio is relatively high, indicating potential leverage risks",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "roe": {
+      "value": 1.4147099,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "ROE is relatively low, indicating potential profitability issues",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "profitMargin": {
+      "value": 27.15,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Profit margin is relatively high, indicating strong pricing power",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "revenueGrowth": {
+      "value": null,
+      "unit": "%",
+      "period": "YoY",
+      "commentary": "Revenue growth rate not available due to lack of historical data",
+      "sourceIds": [
+        "src-1"
+      ]
+    },
+    "cashFlow": {
+      "value": 101090746368,
+      "unit": "USD",
+      "period": "TTM",
+      "trend": "up",
+      "commentary": "Strong cash flow generation driven by operating activities",
+      "sourceIds": [
+        "src-1"
+      ]
+    }
+  },
+  "latestNews": [
+    {
+      "title": "Apple sues OpenAI over alleged theft of trade secrets",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/91cca55af7131686",
+      "publishedAt": "2026-07-11T11:42:38Z",
+      "summary": "Apple accuses OpenAI of stealing trade secrets related to AI technology",
+      "sentiment": "negative",
+      "relevanceScore": 80
+    }
+  ],
+  "newsSentiment": {
+    "overall": "neutral",
+    "score": 50,
+    "rationale": "Mixed news sentiment due to both positive and negative news articles",
+    "sampleCount": 1
+  },
+  "businessRisks": [
+    {
+      "risk": "Regulatory risks",
+      "severity": "medium",
+      "impact": "Potential fines and reputational damage",
+      "mitigation": "Compliance with regulations and proactive engagement with regulatory bodies"
+    }
+  ],
+  "competitiveAdvantages": [
+    {
+      "advantage": "Strong brand recognition",
+      "evidence": "High customer loyalty and retention rates",
+      "impact": "Ability to command premium prices and maintain market share"
+    }
+  ],
+  "competitorAnalysis": [
+    {
+      "company": "Samsung Electronics",
+      "ticker": null,
+      "whyRelevant": "Competitor in the consumer electronics market",
+      "comparisonSummary": "Samsung has a stronger presence in the Android market, but Apple has a loyal customer base"
+    }
+  ],
+  "swot": {
+    "strengths": [
+      {
+        "point": "Strong brand recognition",
+        "evidence": "High customer loyalty and retention rates",
+        "implication": "Ability to command premium prices and maintain market share"
+      }
+    ],
+    "weaknesses": [
+      {
+        "point": "High debt-to-equity ratio",
+        "evidence": "79.548% debt-to-equity ratio",
+        "implication": "Potential leverage risks and decreased financial flexibility"
+      }
+    ],
+    "opportunities": [
+      {
+        "point": "Growing demand for AI-powered devices",
+        "evidence": "Increasing adoption of AI technology in consumer electronics",
+        "implication": "Potential for Apple to expand its product offerings and increase revenue"
+      }
+    ],
+    "threats": [
+      {
+        "point": "Regulatory risks",
+        "evidence": "Potential changes in regulations and laws affecting the tech industry",
+        "implication": "Potential fines and reputational damage"
+      }
+    ]
+  },
+  "pros": [
+    "Strong brand recognition",
+    "High profit margins"
+  ],
+  "cons": [
+    "High debt-to-equity ratio",
+    "Potential regulatory risks"
+  ],
+  "investmentScore": 70,
+  "confidence": 65,
+  "decisionBand": "CONSIDER",
+  "recommendation": "PASS",
+  "reasoning": [
+    {
+      "step": "Evaluate financial health",
+      "explanation": "Apple's financial health is strong, with high revenue and profit margins",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    },
+    {
+      "step": "Assess growth prospects",
+      "explanation": "Apple's growth prospects are uncertain, with potential risks and opportunities in the AI-powered device market",
+      "evidenceRefs": [
+        "src-1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "type": "financial",
+      "url": "https://finance.yahoo.com",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Financial data provider"
+    },
+    {
+      "name": "Apple SWOT Analysis & Strategic Plan (2025) | Alignment.io",
+      "type": "web",
+      "url": "https://www.alignment.io/blog/apple-swot-analysis-strategic-plan-2025",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "[PDF] Analysis of Apple Inc's Business Model Based on the SWOT Model ...",
+      "type": "web",
+      "url": "https://www.atlantis-press.com/article/125981243.pdf",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Apple Inc.'s SWOT Analysis: Brand Strength, Market Expansion, and Competitive Strategy | Free Essay Example",
+      "type": "web",
+      "url": "https://studycorgi.com/apple-inc-s-swot-analysis-brand-strength-market-expansion-and-competitive-strategy",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Apple Inc. SWOT Analysis Overview | PDF",
+      "type": "web",
+      "url": "https://www.scribd.com/document/460290491/SWOT-of-Apple-inc",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "A Comprehensive Apple SWOT Analysis - Boardmix",
+      "type": "web",
+      "url": "https://boardmix.com/analysis/what-is-apple-swot-analysis",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Testujeme stylové chytré hodinky Vivo Watch GT 2 s parádním 2,07\" displejem a NFC",
+      "type": "news",
+      "url": "https://mobilenet.cz/clanky/testujeme-stylove-chytre-hodinky-vivo-watch-gt-2-s-paradnim-2-07-displejem-a-nfc-54789",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via News API from Mobilenet.cz."
+    },
+    {
+      "name": "Broadcom Just Gave Investors Another $30 Billion Reason to Buy the Stock",
+      "type": "news",
+      "url": "https://biztoc.com/x/687823d3c9de81fb",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via News API from Biztoc.com."
+    },
+    {
+      "name": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
+      "type": "news",
+      "url": "https://biztoc.com/x/91cca55af7131686",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via News API from Biztoc.com."
+    },
+    {
+      "name": "Qual è il miglior iPhone per rapporto qualità prezzo a metà del 2026?",
+      "type": "news",
+      "url": "https://tech.everyeye.it/notizie/qual-miglior-iphone-rapporto-qualit-prezzo-met-2026-889221.html",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via News API from Everyeye.it."
+    },
+    {
+      "name": "Apple testuje obří AI modely přímo v iPhonu. Mohly by změnit budoucnost Apple Intelligence",
+      "type": "news",
+      "url": "https://jablickar.cz/apple-testuje-obri-ai-modely-primo-v-iphonu-mohly-by-zmenit-budoucnost-apple-intelligence/",
+      "accessedAt": "2026-07-12T11:50:28.388Z",
+      "note": "Retrieved via News API from Jablickar.cz."
+    }
+  ],
+  "timestamp": "2026-07-12T11:50:28.388Z"
+}

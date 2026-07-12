@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "1.0.0",
+  "company": "Mirae Asset Tiger Google Value Chain Etf",
+  "ticker": "0190Y0.KS",
+  "industry": null,
+  "sector": null,
+  "headquarters": null,
+  "founded": null,
+  "ceo": null,
+  "employees": null,
+  "businessSummary": "Mirae Asset Tiger Google Value Chain Etf is an investment fund that tracks the performance of Google and related companies in the value chain.",
+  "financialHighlights": {
+    "revenue": {
+      "value": null,
+      "unit": "KRW",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "Revenue data not available",
+      "sourceIds": []
+    },
+    "netIncome": {
+      "value": null,
+      "unit": "KRW",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "Net income data not available",
+      "sourceIds": []
+    },
+    "eps": {
+      "value": null,
+      "unit": "KRW per share",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "EPS data not available due to lack of net income and outstanding shares information",
+      "sourceIds": []
+    },
+    "marketCap": {
+      "value": null,
+      "unit": "KRW",
+      "period": "current",
+      "commentary": "Market capitalization data not available",
+      "sourceIds": []
+    },
+    "peRatio": {
+      "value": null,
+      "unit": "x",
+      "period": "current",
+      "commentary": "P/E ratio data not available",
+      "sourceIds": []
+    },
+    "debtToEquity": {
+      "value": null,
+      "unit": "% or x",
+      "period": "current",
+      "commentary": "Debt to equity ratio data not available",
+      "sourceIds": []
+    },
+    "roe": {
+      "value": null,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "ROE data not available due to lack of net income and equity information",
+      "sourceIds": []
+    },
+    "profitMargin": {
+      "value": null,
+      "unit": "%",
+      "period": "TTM",
+      "commentary": "Profit margin data not available",
+      "sourceIds": []
+    },
+    "revenueGrowth": {
+      "value": null,
+      "unit": "%",
+      "period": "YoY",
+      "commentary": "Revenue growth data not available",
+      "sourceIds": []
+    },
+    "cashFlow": {
+      "value": null,
+      "unit": "KRW",
+      "period": "TTM",
+      "trend": "unknown",
+      "commentary": "Cash flow data not available",
+      "sourceIds": []
+    }
+  },
+  "latestNews": [
+    {
+      "title": "Pokonały Polki, później bolesna porażka. Bez wygranego seta [WIDEO]",
+      "source": "Interia.pl",
+      "url": "https://sport.interia.pl/siatkowka/liga-narodow-siatkarek/video-pokonaly-polki-pozniej-bolesna-porazka-bez-wygranego-seta-wi,nId,23512941",
+      "publishedAt": "2026-07-11T11:58:04Z",
+      "summary": "Sports news unrelated to the company",
+      "sentiment": "neutral",
+      "relevanceScore": 0
+    }
+  ],
+  "newsSentiment": {
+    "overall": "neutral",
+    "score": 50,
+    "rationale": "No relevant news found",
+    "sampleCount": 1
+  },
+  "businessRisks": [
+    {
+      "risk": "Lack of financial data",
+      "severity": "high",
+      "impact": "Difficulty in assessing the company's financial health",
+      "mitigation": "Obtain financial statements and updates"
+    }
+  ],
+  "competitiveAdvantages": [
+    {
+      "advantage": "Tracking Google's value chain",
+      "evidence": "Investment strategy",
+      "impact": "Potential for growth due to Google's market position"
+    }
+  ],
+  "competitorAnalysis": [
+    {
+      "company": "Google",
+      "ticker": null,
+      "whyRelevant": "Company tracked by the ETF",
+      "comparisonSummary": "Google's performance affects the ETF"
+    }
+  ],
+  "swot": {
+    "strengths": [
+      {
+        "point": "Tracking a well-established company like Google",
+        "evidence": "Google's market position and brand",
+        "implication": "Potential for growth"
+      }
+    ],
+    "weaknesses": [
+      {
+        "point": "Lack of financial data",
+        "evidence": "Unavailability of financial metrics",
+        "implication": "Difficulty in assessing financial health"
+      }
+    ],
+    "opportunities": [
+      {
+        "point": "Growth in the tech industry",
+        "evidence": "Industry trends",
+        "implication": "Potential for increased value"
+      }
+    ],
+    "threats": [
+      {
+        "point": "Market volatility",
+        "evidence": "General market conditions",
+        "implication": "Risk of decreased value"
+      }
+    ]
+  },
+  "pros": [
+    "Potential for growth due to tracking Google's value chain"
+  ],
+  "cons": [
+    "Lack of financial data"
+  ],
+  "investmentScore": 40,
+  "confidence": 40,
+  "decisionBand": "PASS",
+  "recommendation": "PASS",
+  "reasoning": [
+    {
+      "step": "Assessing financial health",
+      "explanation": "Lack of financial data makes it difficult to assess the company's financial health",
+      "evidenceRefs": []
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "type": "financial",
+      "url": "https://finance.yahoo.com",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Company fundamentals"
+    },
+    {
+      "name": "Competitor SWOT Analysis in 5 Minutes (Using Google Reviews)",
+      "type": "web",
+      "url": "https://www.youtube.com/watch?v=ffvjvPK6Lv4",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Alphabet (Google) SWOT Analysis 2025 - SM Insight",
+      "type": "web",
+      "url": "https://strategicmanagementinsight.com/swot-analyses/google-swot-analysis",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Google SWOT Analysis (A)",
+      "type": "web",
+      "url": "https://najishukri.files.wordpress.com/2010/05/google-swot-analysis.pdf",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Google SWOT Analysis Overview 2023 | PDF | Advertising | Android (Operating System)",
+      "type": "web",
+      "url": "https://www.scribd.com/doc/232687358/SWOT-analysis-of-Google-docx",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "SWOT Analysis of Google - DayTrading.com",
+      "type": "web",
+      "url": "https://www.daytrading.com/swot-analysis-google",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via Tavily web search."
+    },
+    {
+      "name": "Pokonały Polki, później bolesna porażka. Bez wygranego seta [WIDEO]",
+      "type": "news",
+      "url": "https://sport.interia.pl/siatkowka/liga-narodow-siatkarek/video-pokonaly-polki-pozniej-bolesna-porazka-bez-wygranego-seta-wi,nId,23512941",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via News API from Interia.pl."
+    },
+    {
+      "name": "Extremhetta i Frankrike – turistattraktioner stänger",
+      "type": "news",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1480812",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via News API from Aftonbladet.se."
+    },
+    {
+      "name": "Wat te doen als je richting code rood reist? ‘Neem naast water, ook een paraplu mee tegen de zon’",
+      "type": "news",
+      "url": "https://www.nrc.nl/nieuws/2026/07/11/wat-te-doen-als-je-richting-code-rood-reist-neem-naast-water-ook-een-paraplu-mee-tegen-de-zon-a4932294",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via News API from Www.nrc.nl."
+    },
+    {
+      "name": "Τι αλλάζει για τους ιδιοκτήτες ακινήτων με το ΜΙΔΑ: Διορθώσεις στο Ε9 χωρίς πρόστιμα, το 2027 οι ρυθμίσεις στον ΕΝΦΙΑ",
+      "type": "news",
+      "url": "https://www.newsit.gr/oikonomia/xristika/ti-allazei-gia-tous-idioktites-akiniton-me-to-mida-diorthoseis-sto-e9-xoris-prostima-to-2027-oi-rythmiseis-ston-enfia/4726125/",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via News API from Newsit.gr."
+    },
+    {
+      "name": "Óriási ígéretként érkezett Németországba, most aprópénzért csaphat le rá a Barcelona",
+      "type": "news",
+      "url": "https://index.hu/sport/futball/2026/07/11/karim-adeyemi-barcelona-borussia-dortmund-ferran-torres-paris-saint-germain/",
+      "accessedAt": "2026-07-12T11:59:37.761Z",
+      "note": "Retrieved via News API from Index.hu."
+    }
+  ],
+  "timestamp": "2026-07-12T11:59:37.761Z"
+}
